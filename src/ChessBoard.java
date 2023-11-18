@@ -7,7 +7,6 @@ public class ChessBoard {
             }
         }
     }
-
     public static Rectangle[][] getRectangles (){
         return RECTANGLES;
     }
